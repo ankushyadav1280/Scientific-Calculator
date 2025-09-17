@@ -1,0 +1,44 @@
+ Scientific Calculator Project Report
+________________________________________
+1. Introduction
+The purpose of this project is to design and implement a Scientific Calculator using HTML, CSS, and JavaScript. The calculator supports both basic and advanced mathematical operations such as addition, subtraction, multiplication, and division, as well as scientific functions including trigonometric functions, logarithmic operations, factorials, powers, roots, and constants like π and e.
+The project demonstrates the integration of front-end technologies with JavaScript logic to create a responsive and functional web-based application.
+________________________________________
+2. Objectives
+•	To develop a user-friendly calculator that performs both basic and scientific operations.
+•	To implement standard functions: addition, subtraction, multiplication, division.
+•	To include advanced functions: sin, cos, tan, log, ln, factorial, square, cube, powers, square root, and cube root.
+•	To support mathematical constants such as π  and e .
+•	To provide a toggle feature for switching between Degree (DEG) and Radian (RAD) modes for trigonometric calculations.
+________________________________________
+3. Tools & Technologies Used
+•	HTML: Provides the structure of the calculator (buttons, input display).
+•	CSS: Used for styling, layout, and responsive design.
+•	JavaScript: Implements the core functionality, event handling, and calculations.
+•	JavaScript Math Library: Powers trigonometric, logarithmic, exponential, and root calculations.
+________________________________________
+4. Features
+•	Clean, modern, and responsive user interface.
+•	Switching between Degree and Radian modes for trigonometric functions.
+•	Supports factorial (!), power (^), square (x²), cube (x³), square root (√), cube root (∛), and percentage (%).
+•	Constants π and e integrated for scientific calculations.
+•	Error handling with appropriate messages for invalid inputs.
+•	Simple and intuitive button layout, similar to a physical scientific calculator.
+________________________________________
+5. Working of the Project
+1.	Users input values and operations by pressing buttons on the calculator.
+2.	The JavaScript functions capture and parse the input expression.
+3.	Expressions are processed using JavaScript’s Math functions and custom functions such as factorial.
+4.	For trigonometric functions, inputs are automatically converted based on the selected mode (Degree or Radian).
+5.	The result is calculated and displayed in the input field.
+________________________________________
+6. Conclusion
+This project successfully demonstrates the creation of a Scientific Calculator capable of performing a wide range of mathematical operations. By integrating HTML, CSS, and JavaScript, the project highlights the use of front-end web development technologies along with mathematical logic implementation.
+The calculator not only serves as a functional tool but also as an educational project that strengthened the understanding of DOM manipulation, event handling, and mathematical operations in JavaScript.
+________________________________________
+7. Future Scope
+•	Addition of advanced scientific functions such as hyperbolic and inverse trigonometric functions.
+•	Implementation of a calculation history panel to track previous results.
+•	A theme toggle feature (dark mode/light mode) for better usability.
+•	Mobile optimization for enhanced user experience on smaller screens.
+________________________________________
